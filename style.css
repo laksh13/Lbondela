@@ -1,0 +1,11 @@
+body{
+    font-family: "Helvetica Neue", "Segoe UI", Segoe, Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #F9F4ED;
+    font-size: 16px;
+    height: 100vh;
+    border: solid 6px #C7CE7D;
+}
